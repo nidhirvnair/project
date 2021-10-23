@@ -1,0 +1,29 @@
+.note{
+    font-size: small;
+    font-family: 'Quicksand', sans-serif;
+    color: darkblue;
+}
+
+.heading {
+    width: 100%;
+    font-size: medium;
+    border-radius: 20px;
+    margin:0px;
+    box-shadow: 5px 5px 18px gray;
+}
+
+.copyright{
+    position: fixed;
+    color: cyan;
+    bottom: 0;
+    background-color :orangered ;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px gray;
+}
